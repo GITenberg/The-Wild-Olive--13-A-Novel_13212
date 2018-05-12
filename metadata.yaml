@@ -1,0 +1,35 @@
+_repo: The-Wild-Olive--13-A-Novel_13212
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hitchcock, Lucius Wolcott
+    birthdate: 1868
+    deathdate: 1942
+    gutenberg_agent_id: '9373'
+    url: http://www.gutenberg.org/2009/agents/9373
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: King, Basil
+    alias: King, William Benjamin Basil
+    birthdate: 1859
+    deathdate: 1928
+    gutenberg_agent_id: '3214'
+    url: http://www.gutenberg.org/2009/agents/3214
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2004-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13212'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: 'The Wild Olive: A Novel'
+url: http://www.gutenberg.org/ebooks/13212
